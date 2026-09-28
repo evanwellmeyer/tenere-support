@@ -28,5 +28,4 @@ Tenere offers an optional one-time Tenere Pro purchase through Apple's App Store
 
 ## Contact
 
-For questions about this policy or help with Tenere, visit the [Tenere support page](support.md).
-
+For questions about this policy or help with Tenere, email [wellmeyerapps.support@gmail.com](mailto:wellmeyerapps.support@gmail.com) or visit the [Tenere support page](support.md).

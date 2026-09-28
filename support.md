@@ -22,7 +22,6 @@ Open **Info > Tenere Pro** and select **Restore Purchases**. Use the same Apple 
 
 ## Contact
 
-To report a problem or request help, [open a Tenere support request](https://github.com/evanwellmeyer/tenere-support/issues/new). Do not include private photos or other sensitive information.
+To report a problem or request help, email [wellmeyerapps.support@gmail.com](mailto:wellmeyerapps.support@gmail.com). Do not include private photos or other sensitive information.
 
 - [Privacy Policy](privacy-policy.md)
-
