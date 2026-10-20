@@ -16,9 +16,15 @@ Items stored in iCloud Photos may need to download to your iPhone before Tenere 
 
 Items marked Delete remain in Tenere's Delete Queue until you confirm the deletion. Apple Photos then shows its own system confirmation. Deleted items normally move to Recently Deleted according to the behavior of Apple Photos.
 
-### How do I restore Tenere Pro?
+### How does the free trial work?
 
-Open **Info > Tenere Pro** and select **Restore Purchases**. Use the same Apple Account that originally purchased Tenere Pro.
+Tenere is free to try for 7 days. Start the trial from the welcome screen; it costs nothing. When the trial ends, reviewing photos requires a one-time unlock. There is no subscription. The Delete Queue always stays available, so you can finish deleting anything you already queued.
+
+If you downloaded Tenere before the trial was introduced, or bought Tenere Pro, you keep every feature at no extra cost.
+
+### How do I restore my unlock?
+
+Open **Info** and select **Restore Purchases**. Use the same Apple Account you used to buy the unlock.
 
 ## Contact
 

@@ -24,7 +24,7 @@ Tenere does not automatically delete photos or videos. Items marked Delete are s
 
 ## Purchases
 
-Tenere offers an optional one-time Tenere Pro purchase through Apple's App Store. Apple processes the transaction. Tenere checks the Apple-verified purchase entitlement on the device to unlock Pro tools and does not send purchase information to a developer server.
+Tenere offers a free 7-day trial and a one-time unlock through Apple's App Store. Apple processes these transactions. Tenere checks the Apple-verified trial and purchase records on the device and does not send purchase information to a developer server.
 
 ## Contact
 
